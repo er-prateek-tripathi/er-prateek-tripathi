@@ -29,6 +29,9 @@
  
 [![LeetCode](https://leetcode.com/static/images/favicon.ico)](https://leetcode.com/prateek_77)
 
+[![LeetCode](https://leetcode.com/static/images/logo-w-160@2x.png)](https://leetcode.com/prateek_77)
+
+
 </p>
 
 ### Languages & Technologies
