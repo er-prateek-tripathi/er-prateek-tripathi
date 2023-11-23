@@ -66,12 +66,16 @@
 
 <img align="left" alt="gfg" width="90px" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" />
 <img align="left" alt="Udemy" width="60px" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" />
+
+[![Udemy](https://cdn.udemyshare.com/img/udacity/logo-udemyshare.svg)](https://www.udemy.com/[your_udemy_username])
+
 <img align="left" alt="YouTube" width="60px" src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=s48-rw" />
 <img align="left" alt="Coursera" width="90px" src="https://coursera.org/static/images/brand/CourseraLogo.svg)" />
 
 <br><br><br><br>
 <hr>
-## My Stats
+
+### My Stats
 
 ![Github Stats 3](https://github-readme-stats.vercel.app/api?username=er-prateek-tripathi)
 
