@@ -7,15 +7,20 @@
  
 </p>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=er-prateek-tripathi&label=Profile%20views&color=0e75b6&style=flat" alt="er-prateek-tripathi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=er-prateek-tripathi" alt="er-prateek-tripathi" /></a> </p>
 <hr>
-<h3 align="left">I am a Developer</h3>
+<h3 align="left">I am a aspiring Data Scientist</h3>
 
-- 👨‍🏭 I have completed my **B.Tech from Lovely Professional University** <br>
-- 🏫 I’m currently learning and working upon **Python Web Development, Data Analytics, Data Science and DSA** <br>
-- 🧑‍🎓 2024 Goals: **Outstanding Career Growth** <br>
+- 👨‍🏭 I have completed my **B.Tech from Lovely Professional University**.
+- 🏫 I’m currently learning and working upon **Python Web Development, Data Analytics, Data Science and DSA**.
+- 🧑‍🎓 2024 Goals: **Outstanding Career Growth**.
+- 🔭 I’m currently working on **Data Structures and Algorithms** in C++ and Python.
+- 🌱 I’m currently learning **C++, Python, and SQL**.
+- 👯 I’m looking to collaborate on Deep Learning.
+- 💬 Ask me about Machine Learning, Deep Learning and NLP.
+- 📫 How to reach me: prateek772492@gmail.com .
+- :smile: Happy Learning
 
 🕵 Take a look at my repositories and let's get in touch!<br>
 
@@ -26,19 +31,6 @@
 <a href="https://linkedin.com/in/prateekt00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="er-prateek-tripathi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/prateekt01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er-prateek-tripathi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/prateek772492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="er-prateek_tripathi" height="30" width="40" /></a>
-
-[![HackerRank Stars](https://img.shields.io/badge/HackerRank-Stars-orange/prateek772492.svg)](https://hackerrank.com/prateek772492)
-
-| Badge | Description | Link |
-|---|---|---|
-[![HackerRank Badge](https://badgey.glitch.me/badge/hackerrank/prateek772492/stars.svg)](https://www.hackerrank.com/prateek772492) | HackerRank Stars 
-[HackerRank Profile](https://www.hackerrank.com/prateek772492)
-
-[![HackerRank Badge](https://badgey.glitch.me/badge/hackerrank/prateek772492/contests.svg)](https://www.hackerrank.com/prateek772492) | HackerRank Contests [HackerRank Contests](https://www.hackerrank.com/contest)
-
-[![HackerRank Badge](https://badgey.glitch.me/badge/hackerrank/prateek772492/skills.svg)](https://www.hackerrank.com/prateek772492) | HackerRank Skills [HackerRank Skills](https://www.hackerrank.com/skills)
-
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank-C%2B%2B-5-Star-Orange/prateek772492.svg)](https://www.hackerrank.com/prateek772492/c)
 
 <hr>
 
@@ -89,12 +81,7 @@
 
 ![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=er-prateek-tripathi)
 
-- 🔭 I’m currently working on Data Structures and Algorithms in C++ and Python
-- 🌱 I’m currently learning C++, Python, and SQL
-- 👯 I’m looking to collaborate on Deep Learning
-- 💬 Ask me about Machine Learning, Deep Learning and NLP
-- 📫 How to reach me: prateek772492@gmail.com
-- :smile: Happy Learning
+
 
 <!--
 **er-prateek-tripathi/er-prateek-tripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
