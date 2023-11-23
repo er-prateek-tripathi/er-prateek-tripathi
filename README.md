@@ -27,7 +27,7 @@
 <a href="https://www.instagram.com/prateekt01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er-prateek-tripathi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/prateek772492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="er-prateek_tripathi" height="30" width="40" /></a>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/prateek_77)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/prateek_77)](https://leetcode.com/prateek_77)
 
 
 </p>
