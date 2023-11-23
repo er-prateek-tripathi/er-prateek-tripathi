@@ -62,6 +62,19 @@
 
 <br><br><br><br>
 <hr>
+My Stats
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=er-prateek-tripathi)
+
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=er-prateek-tripathi)
+
+![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=er-prateek-tripathi)
+
+- 🔭 I’m currently working on Data Science Mentorship Program
+- 🌱 I’m currently learning SQL
+- 👯 I’m looking to collaborate on Deep Learning
+- 💬 Ask me about Machine Learning, Deep Learning and NLP
+- 📫 How to reach me: nitish.campusx@gmail.com
+- :smile: Happy Learning
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=er-prateek-tripathi&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="akashtripathiiiii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=er-prateek-tripathi&show_icons=true&locale=en&theme=blue-green" alt="akashtripathiiiii" /></p>
