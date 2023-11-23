@@ -29,9 +29,13 @@
 
 [![HackerRank Stars](https://img.shields.io/badge/HackerRank-Stars-orange/prateek772492.svg)](https://hackerrank.com/prateek772492)
 
-[![HackerRank C++ 5-Star Badge](https://img.shields.io/badge/HackerRank-C++-5-Star-Orange/bard.svg)](https://www.hackerrank.com/prateek772492/c)
+| Badge | Description | Link |
+|---|---|---|
+| [![HackerRank Badge](https://badgey.glitch.me/badge/hackerrank/prateek772492/stars.svg)](https://www.hackerrank.com/prateek772492) | HackerRank Stars | [HackerRank Profile](https://www.hackerrank.com/prateek772492) |
+| [![HackerRank Badge](https://badgey.glitch.me/badge/hackerrank/prateek772492/contests.svg)](https://www.hackerrank.com/prateek772492) | HackerRank Contests | [HackerRank Contests](https://www.hackerrank.com/contest) |
+| [![HackerRank Badge](https://badgey.glitch.me/badge/hackerrank/prateek772492/skills.svg)](https://www.hackerrank.com/prateek772492) | HackerRank Skills | [HackerRank Skills](https://www.hackerrank.com/skills) |
 
-[![HackerRank Python 5-Star Badge](https://img.shields.io/badge/HackerRank-Python-5-Star-Orange/bard.svg)](https://www.hackerrank.com/prateek772492/python)
+
 
 
 
