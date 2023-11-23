@@ -30,6 +30,7 @@
 [![HackerRank Stars](https://img.shields.io/badge/HackerRank-Stars-orange/prateek772492.svg)](https://hackerrank.com/prateek772492)
 
 [![HackerRank C++ 5-Star Badge](https://img.shields.io/badge/HackerRank-C++-5-Star-Orange/bard.svg)](https://www.hackerrank.com/bard/c)
+
 [![HackerRank Python 5-Star Badge](https://img.shields.io/badge/HackerRank-Python-5-Star-Orange/bard.svg)](https://www.hackerrank.com/bard/python)
 
 
