@@ -58,28 +58,25 @@
 <img align="left" alt="gfg" width="90px" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" />
 <img align="left" alt="Udemy" width="60px" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" />
 <img align="left" alt="YouTube" width="60px" src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=s48-rw" />
-<img align="left" alt="coursera" width="90px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSULhsxEu_Mc7sTVBJSibDgD1YjzWk6XwUnYgeLD7YMErZf4rhSvSHaGN4XxE0_X5e59Xk&usqp=CAU" />
+<img align="left" alt="Coursera" width="90px" src="https://coursera.org/static/images/brand/CourseraLogo.svg)" />
 
 <br><br><br><br>
 <hr>
-My Stats
+## My Stats
+
 ![Github Stats 3](https://github-readme-stats.vercel.app/api?username=er-prateek-tripathi)
 
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=er-prateek-tripathi)
 
 ![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=er-prateek-tripathi)
 
-- 🔭 I’m currently working on Data Science Mentorship Program
-- 🌱 I’m currently learning SQL
+- 🔭 I’m currently working on Data Structures and Algorithms in C++ and Python
+- 🌱 I’m currently learning C++, Python, and SQL
 - 👯 I’m looking to collaborate on Deep Learning
 - 💬 Ask me about Machine Learning, Deep Learning and NLP
-- 📫 How to reach me: nitish.campusx@gmail.com
+- 📫 How to reach me: prateek772492@gmail.com
 - :smile: Happy Learning
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=er-prateek-tripathi&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="akashtripathiiiii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=er-prateek-tripathi&show_icons=true&locale=en&theme=blue-green" alt="akashtripathiiiii" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=er-prateek-tripathi&" alt="akashtripathiiiii" /></p>
 <!--
 **er-prateek-tripathi/er-prateek-tripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
