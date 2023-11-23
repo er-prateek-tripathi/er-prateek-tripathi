@@ -38,9 +38,7 @@
 
 [![HackerRank Badge](https://badgey.glitch.me/badge/hackerrank/prateek772492/skills.svg)](https://www.hackerrank.com/prateek772492) | HackerRank Skills [HackerRank Skills](https://www.hackerrank.com/skills)
 
-
-
-
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-C%2B%2B-5-Star-Orange/prateek772492.svg)](https://www.hackerrank.com/prateek772492/c)
 
 <hr>
 
