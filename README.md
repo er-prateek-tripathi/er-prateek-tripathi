@@ -6,10 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=Welcome+To+My+Github+Profile;Data+Analyst+and+Python+Developer)](https://git.io/typing-svg)
  
 </p>
-<hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=er-prateek-tripathi" alt="er-prateek-tripathi" /></a> </p>
-<hr>
 <h3 align="left">I am a aspiring Data Scientist</h3>
 
 - 👨‍🏭 I have completed my **B.Tech from Lovely Professional University**.
