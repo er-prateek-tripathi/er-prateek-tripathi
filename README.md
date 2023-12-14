@@ -44,9 +44,9 @@
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 <img align="left" alt="Mysql" width="50px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
-<img align="left" alt="tensorflow" width="160px" src="https://www.gstatic.com/devrel-devsite/prod/v4c72fb03a7a581549fb317877b3b0627265bda97bd9ba2a29365d1ada8a00354/tensorflow/images/lockup.svg">
-<img align="left" alt="keras" width="120px" src="https://keras.io/img/logo.png">
-<img align="left" alt="pytorch" width="120px" src="https://pytorch.org/assets/images/logo-white.svg">
+<img align="left" alt="tensorflow" width="140px" src="https://www.gstatic.com/devrel-devsite/prod/v4c72fb03a7a581549fb317877b3b0627265bda97bd9ba2a29365d1ada8a00354/tensorflow/images/lockup.svg">
+<img align="left" alt="keras" width="100px" src="https://keras.io/img/logo.png">
+<img align="left" alt="pytorch" width="100px" src="https://pytorch.org/assets/images/logo-white.svg">
 
 
 <br><br>
