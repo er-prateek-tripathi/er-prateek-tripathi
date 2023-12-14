@@ -69,7 +69,6 @@
 
 <img align="left" alt="gfg" width="90px" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" />
 <img align="left" alt="YouTube" width="60px" src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=s48-rw" />
-<img align="left" alt="Coursera" width="90px" src="https://coursera.org/static/images/brand/CourseraLogo.svg)" />
 
 <br><br><br><br>
 <hr>
