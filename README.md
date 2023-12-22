@@ -63,14 +63,6 @@
 <img align="left" alt="Pycharm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
 <br><br><br>
 
-### Learning Sources
-
-<hr/>
-
-<img align="left" alt="gfg" width="90px" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" />
-<img align="left" alt="YouTube" width="60px" src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=s48-rw" />
-
-<br><br><br><br>
 <hr>
 
 ### My Stats
