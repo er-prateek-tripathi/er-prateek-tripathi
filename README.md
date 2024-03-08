@@ -9,6 +9,7 @@
 
 <h3 align="left">I am a aspiring Data Scientist</h3>
 
+- Working as a <b>Data Analyst</b> @ <a href = "www.latentview.com"> Latentview Analytics </a>.
 - 👨‍🏭 I have completed my **B.Tech from Lovely Professional University**.
 - 🏫 I’m currently learning and working upon **Python Web Development, Data Analytics, Data Science and DSA**.
 - 🧑‍🎓 2024 Goals: **Outstanding Career Growth**.
