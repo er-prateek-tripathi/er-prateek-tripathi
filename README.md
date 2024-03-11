@@ -14,7 +14,7 @@
 - 🏫 I’m currently learning and working upon **Python Web Development, Data Analytics, Data Science and DSA**.
 - 🧑‍🎓 2024 Goals: **Outstanding Career Growth**.
 - 🔭 I’m currently working on **Data Structures and Algorithms** in C++ and Python.
-- 🌱 I’m currently learning **C++, Python, and SQL**.
+- 🌱 I’m currently learning **Python and SQL**.
 - 👯 I’m looking to collaborate on Deep Learning.
 - 💬 Ask me about Machine Learning, Deep Learning and NLP.
 - 📫 How to reach me: prateek772492@gmail.com .
