@@ -13,7 +13,7 @@
 - 👨‍🏭 I have completed my **B.Tech from Lovely Professional University**.
 - 🏫 I’m currently learning and working upon **Python Web Development, Data Analytics, Data Science and DSA**.
 - 🧑‍🎓 2024 Goals: **Outstanding Career Growth**.
-- 🔭 I’m currently working on **Data Structures and Algorithms** in C++ and Python.
+- 🔭 I’m currently working on **Data Structures and Algorithms, along with Data Science Concepts** in C++ and Python.
 - 🌱 I’m currently learning **Python and SQL**.
 - 👯 I’m looking to collaborate on Deep Learning.
 - 💬 Ask me about Machine Learning, Deep Learning and NLP.
